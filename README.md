@@ -51,7 +51,7 @@ I’m a passionate developer who loves building meaningful applications and expe
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ayush-bhandarkar-555730286)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff)](mailto:ayushbhandarkar@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff)](mailto:ayushbhandarkar7@gmail.com)  
 
 ---
 ⭐️ *"Code, Learn, Build, Repeat."*
