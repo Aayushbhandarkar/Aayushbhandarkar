@@ -25,7 +25,6 @@ I’m a passionate developer who loves building meaningful applications and expe
 
 ### 🗄 Databases  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
 
 ### ⚙️ Tools  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
