@@ -46,9 +46,11 @@ I’m a passionate developer who loves building meaningful applications and expe
 
 ## 🏆 GitHub Achievements  
 
-![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)  
-![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)  
-![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)  
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" />
+</p>
 
 ---
 
