@@ -39,11 +39,10 @@ I’m a passionate developer who loves building meaningful applications and expe
 ---
 
 ## 📌 Featured Projects  
-
+🔹 **[AI Powered Code Reviewer](https://github.com/Aayushbhandarkar/Ai-powered-code-review)** – AI-based bug finder & code suggestions  
 🔹 **[AI Virtual Assistant](https://github.com/Aayushbhandarkar/AI-virtual-Assistant)** – Voice-based assistant for daily tasks  
 🔹 **[LinkedIn Clone](https://github.com/Aayushbhandarkar/LinkedIn_mega)** – MERN-based social platform with authentication & posts  
 🔹 **[Notes App](https://github.com/Aayushbhandarkar/Notes-App)** – Simple CRUD app with React  
-🔹 **[AI Powered Code Reviewer](https://github.com/Aayushbhandarkar/Ai-powered-code-review)** – AI-based bug finder & code suggestions  
 
 ---
 
