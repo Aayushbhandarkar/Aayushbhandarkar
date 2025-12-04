@@ -34,21 +34,15 @@ Final-year Computer Engineering student. I build clean, practical software with 
 ---
 
 ## 📌 Featured Projects  
-🔹 AI-Powered Code Reviewer
 
-An intelligent tool that analyzes code, detects bugs, and suggests improvements using AI.
+🔹 **[AI Powered Code Reviewer](https://github.com/Aayushbhandarkar/Ai-powered-code-review)** – AI-based tool that detects bugs, analyzes code quality, and gives smart improvement suggestions.  
 
-🔹 AI-Enabled E-Commerce Platform
+🔹 **[AI-Powered E-Commerce Website](https://github.com/Aayushbhandarkar/OGNE-Ecommerce.git)** – A modern e-commerce platform enhanced with AI features and automated shopping experience.  
 
-A smart e-commerce website enhanced with AI features for better user experience and automation.
+🔹 **[LinkedIn Clone](https://github.com/Aayushbhandarkar/LinkedIn_mega)** – A full MERN social platform with secure authentication, user posts, and profile features.  
 
-🔹 LinkedIn Clone (MERN)
+🔹 **[AI Virtual Assistant](https://github.com/Aayushbhandarkar/AI-virtual-Assistant)** – A voice-controlled personal assistant built for automating daily tasks.  
 
-A full-stack social networking platform with real-time posts, authentication, and user profiles.
-
-🔹 AI Virtual Assistant
-
-A voice-controlled personal assistant that helps automate daily tasks.
 
 ---
 
