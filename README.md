@@ -7,12 +7,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m a passionate developer who loves building meaningful applications and experimenting with new technologies.  
-
-- 🔭 Currently working on **Full-Stack Projects with React & Node.js**  
-- 🌱 Exploring **AI Integration** & **Cloud Deployment**  
-- 🤝 Open to **Internships** and **Collaboration Opportunities**  
-- ⚡ Fun fact: *I believe in learning by building* 🚀  
+Final-year Computer Engineering student. I build clean, practical software with MERN and explore meaningful AI integrations. Learning by doing, every day.
 
 ---
 
